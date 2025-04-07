@@ -122,7 +122,7 @@ src="https://cardivo.vercel.app/api?name=RAZA-INC-MD🚀&description=🥂❤️�
 ----------
 
 <p align="center">
-<a href='https://pairweb-0128d14b1d45.herokuapp.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+<a href='https://pairwebown-7b4758583df5.herokuapp.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
 </p>
  
 ----------
